@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/ba0gu0/GoHookProxy/config"
-	"github.com/ba0gu0/GoHookProxy/hook"
-	"github.com/ba0gu0/GoHookProxy/proxy"
+	"github.com/nurdich/GoHookProxy/config"
+	"github.com/nurdich/GoHookProxy/hook"
+	"github.com/nurdich/GoHookProxy/proxy"
 )
 
 func main() {

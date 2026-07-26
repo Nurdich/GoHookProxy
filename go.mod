@@ -1,4 +1,4 @@
-module github.com/ba0gu0/GoHookProxy
+module github.com/nurdich/GoHookProxy
 
 go 1.23.3
 

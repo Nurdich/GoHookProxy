@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	C "github.com/ba0gu0/GoHookProxy/config"
-	"github.com/ba0gu0/GoHookProxy/hook"
-	"github.com/ba0gu0/GoHookProxy/proxy"
+	C "github.com/nurdich/GoHookProxy/config"
+	"github.com/nurdich/GoHookProxy/hook"
+	"github.com/nurdich/GoHookProxy/proxy"
 )
 
 func TestHookWithProxies(t *testing.T) {

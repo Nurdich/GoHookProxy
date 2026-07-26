@@ -36,7 +36,7 @@ The library provides detailed metrics including:
 ## 安装 | Installation
 
 ```bash
-go get github.com/ba0gu0/GoHookProxy
+go get github.com/nurdich/GoHookProxy
 ```
 
 ## 快速开始 | Quick Start
@@ -47,9 +47,9 @@ package main
 import (
     "log"
     "time"
-    "github.com/ba0gu0/GoHookProxy/config"
-    "github.com/ba0gu0/GoHookProxy/proxy"
-    "github.com/ba0gu0/GoHookProxy/hook"
+    "github.com/nurdich/GoHookProxy/config"
+    "github.com/nurdich/GoHookProxy/proxy"
+    "github.com/nurdich/GoHookProxy/hook"
     "github.com/agiledragon/gomonkey/v2"
 )
 

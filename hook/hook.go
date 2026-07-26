@@ -13,7 +13,7 @@ import (
 	"errors"
 
 	"github.com/agiledragon/gomonkey/v2"
-	"github.com/ba0gu0/GoHookProxy/proxy"
+	"github.com/nurdich/GoHookProxy/proxy"
 )
 
 type Hook struct {

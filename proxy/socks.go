@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"time"
 
-	C "github.com/ba0gu0/GoHookProxy/config"
-	E "github.com/ba0gu0/GoHookProxy/errors"
-	"github.com/ba0gu0/GoHookProxy/metrics"
+	C "github.com/nurdich/GoHookProxy/config"
+	E "github.com/nurdich/GoHookProxy/errors"
+	"github.com/nurdich/GoHookProxy/metrics"
 )
 
 // SOCKS4请求格式:

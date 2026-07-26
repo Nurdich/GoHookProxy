@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	C "github.com/ba0gu0/GoHookProxy/config"
-	"github.com/ba0gu0/GoHookProxy/errors"
-	"github.com/ba0gu0/GoHookProxy/metrics"
+	C "github.com/nurdich/GoHookProxy/config"
+	"github.com/nurdich/GoHookProxy/errors"
+	"github.com/nurdich/GoHookProxy/metrics"
 
 	"golang.org/x/net/http2"
 )
